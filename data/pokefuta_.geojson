@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.471699,
+          43.875033
+        ]
+      },
+      "properties": {
+        "city": "北海道/比布町",
+        "address": "北海道比布町西町2丁目6番1号",
+        "name": [
+          "アローラロコン",
+          "ポッチャマ"
+        ],
+        "img": "f5e2dff8844d9a78c1baca3405a0737b_l.png"
+      }
+    }
+  ]
+}
